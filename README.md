@@ -1,4 +1,4 @@
-# Trust Wallet Token  by UCBI Banking
+# Trust Wallet Token  by UCBI Maroc
 www.ucbibanking.com
 
 This repository (repo) provides coin / token images for Trust Wallet mobile clients iOS and Android
