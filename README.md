@@ -43,7 +43,7 @@ Directory of token images for ERC20 contracts
 ### Why do I still see old logo in Trust Wallet after uploaded new one  
 Both clients, Android and iOS keep old image cache for up to 7 days, in order to reflect changes immediately, reinstall Trust Wallet application. But as always, make sure you have backup to all your wallets.
 
-## How to Use It? (For Developers)
+## How to Use It ? (For Developers)
 Base URL:
 ```js
 https://raw.githubusercontent.com/TrustWallet/tokens/master/tokens/<contract_address>.png
