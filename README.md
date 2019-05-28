@@ -1,7 +1,7 @@
 # Trust Wallet Token  by UCBI Banking
 
 This repository (repo) provides coin / token images for Trust Wallet mobile clients iOS and Android
-<center><img src='https://raw.githubusercontent.com/TrustWallet/tokens/master/tutorial/trust-wallet.png'></center>
+<center><img src='https://ucbibanking.com/public/images/zinnia/app-screen.png'></center>
 
 Directory of token images for ERC20 contracts
 
