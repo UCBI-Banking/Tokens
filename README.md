@@ -1,4 +1,4 @@
-# Trust Wallet Token BOA
+# Trust Wallet Token  by UCBI Banking
 
 This repository (repo) provides coin / token images for Trust Wallet mobile clients iOS and Android
 <center><img src='https://raw.githubusercontent.com/TrustWallet/tokens/master/tutorial/trust-wallet.png'></center>
